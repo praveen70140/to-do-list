@@ -1,0 +1,17 @@
+*{
+  font-size: 30px;
+}
+table {
+    border-collapse: collapse; /* Ensures adjacent cells share borders */
+    
+  }
+  
+  td, th {
+    border: 1px solid black;
+  }
+  a{
+    text-decoration: none;
+    color: red;
+    margin: 10px;
+    display: block;
+  }
